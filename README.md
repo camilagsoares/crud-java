@@ -2,7 +2,7 @@
 
 *Feita individualmente
 
-Aplicação Java usando o framework Spring, implementando operações CRUD (Create, Read, Update, Delete) para três entidades: Contato, Empresa e Projeto. As principais operações incluem:
+Aplicação Java usando o framework Spring, implementando operações CRUD (Create, Read, Update, Delete) para duas entidades: Usuario, Tecnologia. As principais operações incluem:
 
 
 * listar
