@@ -1,6 +1,6 @@
 # crud-java
 
-*Feita individualmente
+<b>*Feita individualmente</b>
 
 Aplicação Java usando o framework Spring, implementando operações CRUD (Create, Read, Update, Delete) para duas entidades: Usuario, Tecnologia. As principais operações incluem:
 
